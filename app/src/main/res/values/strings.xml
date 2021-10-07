@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Submission 1</string>
+    <string name="name_film">Nama Film</string>
+    <string name="desc">Description</string>
+    <string name="deskripsi_film">Deskripsi Film</string>
+    <string name="genre_film">Genre Film</string>
+
+    <string-array name="data_name">
+        <item>Frozen 2</item>
+        <item>Toy Story 4</item>
+        <item>The Lion King</item>
+        <item>Aladdin</item>
+        <item>Wonder Park</item>
+        <item>The Lego Movie 2</item>
+        <item>The Secret Life of Pets 2</item>
+        <item>Dumbo</item>
+        <item>Uglydolls</item>
+        <item>Pokemon Detective Pikachu</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Frozen 2 adalah sebuah film musikal animasi komputer Amerika yang diproduksi oleh Walt Disney Animation Studios dan dirilis oleh Walt Disney Pictures. Film tersebut adalah sekuel dari film tahun 2013, Frozen. Film tersebut dijadwalkan dirilis pada 27 November 2019 dalam format 2D dan 3D.</item>
+        <item>Woody selalu merasa percaya diri akan posisinya di dunia, dan prioritasnya adalah menjaga anaknya, baik itu Andy atau Bonnie. Namun ketika Bonnie menambahkan sebuah mainan baru bernama Forky dalam kamar mainannya, sebuah pengembaraan bersama teman-teman lama dan baru akan membawa Woody untuk menyaksikan betapa besarnya dunia ini bagi sebuah mainan seperti dirinya.</item>
+        <item>Setelah ayahnya terbunuh, Simba singa muda melarikan diri dari kelompoknya hanya untuk mempelajari arti sebenarnya dari tanggung jawab dan keberanian.</item>
+        <item>Aladdin, seorang anak jalanan yang jatuh cinta pada seorang putri. Dengan perbedaan kasta dan harta, Aladdin pun berusaha mencari jalan agar bisa mejadi seorang pangeran, tak disangka ia menemukan lampu dengan jin di dalamnya. Aladdin pun menggunakan lampu untuk mengubah dirinya menjadi seorang pangeran untuk memenangkan hatiPutri Jasmine, tapi Wazir jahat juga mengejar lampu tersebut untuk menguasai kerajaan.</item>
+        <item>Wonder Park berkisah tentang sebuah taman hiburan yang luar biasa, di mana imajinasi seorang gadis yang sangat kreatif bernama June (Brianna Denski) menjadi hidup.</item>
+        <item>Sudah lima tahun sejak segalanya keren di kota Bricksburg dan para penduduk kini menghadapi ancaman baru: LEGO DUPLO dari angkasa luar, yang menghancurkan segalanya lebih cepat daripada waktu yang dibutuhkan untuk membangun kembali.</item>
+        <item>Anjing terrier Max mencoba berhadapan dengan berbagai perubahan besar dalam hidupnya. Pemiliknya kini telah menikah dan memiliki seorang bayi, Liam. Max menjadi sangat protektif terhadap bayi tersebut sampai-sampai menimbulkan gejala saat ia gelisah.</item>
+        <item>Pemilik sirkus Max Medici mempekerjakan seorang mantan bintang, Holt Farrier dan anak-anaknya, Milly dan Joe dalam kelompok sirkusnya yang tengah berjuang, untuk merawat seekor bayi gajah berdaun telinga sangat besar, Dumbo yang sering jadi bahan ejekan. Namun, ketika mereka tahu bahwa Dumbo ternyata bisa terbang, sirkus ini kembali semarak.</item>
+        <item>Di sebuah kota bernama Uglyville, keanehan dipuji-puji, keganjilan adalah istimewa, dan kecantikan dimaknai lebih dari sekadar yang dilihat mata. Di sini, Moxy dan sesama UglyDoll yang berjiwa bebas hidup setiap hari dalam kegembiraan, membiarkan keanehan dalam diri mereka berkibar dalam perayaan hidup dan aneka kemungkinan yang tiada batas. </item>
+        <item>Kisah ini bermula ketika detektif swasta ulung Harry Goodman menghilang secara tiba-tiba, mendorong putranya yang berumur 21 tahun untuk mencari tahu apa yang terjadi. Yang membantu penyelidikan adalah mantan mitra Pokmon Harry, Detective Pikachu: detektif ulung yang kocak dan menggemaskan yang membingungkan bahkan bagi dirinya sendiri.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/frozen</item>
+        <item>@drawable/toystory</item>
+        <item>@drawable/thelionking</item>
+        <item>@drawable/aladdin</item>
+        <item>@drawable/wonderpark</item>
+        <item>@drawable/thelego</item>
+        <item>@drawable/thesecretlife</item>
+        <item>@drawable/dumbo</item>
+        <item>@drawable/uglydolls</item>
+        <item>@drawable/pikachu</item>
+    </array>
+
+    <array name="data_star">
+        <item>@drawable/star45</item>
+        <item>@drawable/star4</item>
+        <item>@drawable/star35</item>
+        <item>@drawable/star35</item>
+        <item>@drawable/star3</item>
+        <item>@drawable/star35</item>
+        <item>@drawable/star5</item>
+        <item>@drawable/star3</item>
+        <item>@drawable/star45</item>
+        <item>@drawable/star35</item>
+    </array>
+
+    <string-array name="data_genre">
+        <item>2019. Drama/Fantasi</item>
+        <item>2019. Fantasi/Petualangan</item>
+        <item>2019. Drama/Petualangan</item>
+        <item>2019. Fantasi/Film Roman</item>
+        <item>2019. Fantasi/Petualangan</item>
+        <item>2019. Fantasi/Fiksi Ilmiah</item>
+        <item>2019. Petualangan/Komedi</item>
+        <item>2019. Fantasi/Petualangan</item>
+        <item>2019. Fantasi/Petualangan</item>
+        <item>2019. Fantasi/Misteri</item>
+    </string-array>
+</resources>
